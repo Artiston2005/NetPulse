@@ -1,0 +1,21 @@
+# Build output and binaries
+build/
+bin/
+*.exe
+*.o
+*.obj
+*.d
+
+# Output files from runs
+*.pcap
+*.csv
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.user
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
